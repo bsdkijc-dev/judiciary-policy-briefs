@@ -1,0 +1,64 @@
+{
+  "publications": [
+    {
+      "publication_id": "PB-JUD-2026-001",
+      "title": "From Court Statistics to Better Justice Policy",
+      "subtitle": "Understanding Caseload, Case Clearance, and Pending Cases in Indonesia's Judiciary",
+      "research_question": "How can consistently defined and verifiable court statistics help judicial policymakers understand workload, identify operational pressures, and improve access to timely justice?",
+      "reporting_period": "2015-2025",
+      "source_scope": "Mahkamah Agung RI Annual Reports, Kepaniteraan Annual Reports, LKjIP, Official Releases",
+      "dataset_name": "indonesia-judiciary-caseload-clearance-2015-2025",
+      "dataset_version": "1.0.0",
+      "github_path": "briefs/PB-JUD-2026-001-caseload/",
+      "website_path": "docs/briefs/PB-JUD-2026-001.md",
+      "publication_status": "READY_FOR_RELEASE",
+      "verification_status": "AUDITED_WITH_DISCREPANCIES_FLAGGED",
+      "publication_date": "2026-11-25"
+    },
+    {
+      "publication_id": "PB-JUD-2026-002",
+      "title": "Measuring Access to Justice and Legal Aid",
+      "subtitle": "Evaluating Posbakum, Prodeo, and Court Fee Waivers Across Indonesia",
+      "research_question": "How effectively do court-based legal aid and fee-waiver mechanisms reach underserved litigants?",
+      "reporting_period": "2020-2025",
+      "source_scope": "Badilum, Badilag, BPHN Legal Aid Reports",
+      "dataset_name": "indonesia-access-to-justice-legal-aid",
+      "dataset_version": "0.1.0",
+      "github_path": "briefs/PB-JUD-2026-002-legal-aid/",
+      "website_path": "docs/briefs/PB-JUD-2026-002.md",
+      "publication_status": "PLANNED",
+      "verification_status": "NOT_STARTED",
+      "publication_date": "TBD"
+    },
+    {
+      "publication_id": "PB-JUD-2026-003",
+      "title": "Judicial Resources and Institutional Capacity",
+      "subtitle": "Analyzing Judicial Staffing, Budget Allocation, and Caseload Density",
+      "research_question": "How do judicial staffing and budget distributions align with regional caseload pressures?",
+      "reporting_period": "2020-2025",
+      "source_scope": "MA-RI Financial & HR Reports, LKjIP",
+      "dataset_name": "indonesia-judicial-resources-capacity",
+      "dataset_version": "0.1.0",
+      "github_path": "briefs/PB-JUD-2026-003-resources/",
+      "website_path": "docs/briefs/PB-JUD-2026-003.md",
+      "publication_status": "PLANNED",
+      "verification_status": "NOT_STARTED",
+      "publication_date": "TBD"
+    },
+    {
+      "publication_id": "PB-JUD-2026-004",
+      "title": "Court Efficiency, Timeliness, and Case Management",
+      "subtitle": "Benchmarking On-Time Case Processing and Minutation Turnaround",
+      "research_question": "Where do delays occur between case registration, decision, and judgment dispatch?",
+      "reporting_period": "2018-2025",
+      "source_scope": "Kepaniteraan MA-RI, SIPP Aggregate Timeliness Logs",
+      "dataset_name": "indonesia-court-timeliness-benchmarks",
+      "dataset_version": "0.1.0",
+      "github_path": "briefs/PB-JUD-2026-004-timeliness/",
+      "website_path": "docs/briefs/PB-JUD-2026-004.md",
+      "publication_status": "PLANNED",
+      "verification_status": "NOT_STARTED",
+      "publication_date": "TBD"
+    }
+  ]
+}

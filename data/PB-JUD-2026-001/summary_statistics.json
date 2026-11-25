@@ -1,0 +1,46 @@
+{
+  "dataset_version": "1.0.0",
+  "total_records": 19,
+  "total_sources": 18,
+  "verification_counts": {
+    "VERIFIED": 12,
+    "PARTIALLY VERIFIED": 4,
+    "DISCREPANCY IDENTIFIED": 3
+  },
+  "source_verification_counts": {
+    "VERIFIED": 16,
+    "PARTIALLY VERIFIED": 1,
+    "DISCREPANCY IDENTIFIED": 1
+  },
+  "ma_ri_2015_2025": {
+    "years_covered": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "caseload_2015": 18402,
+    "caseload_2025": 38148,
+    "caseload_growth_pct_2015_2025": 107.3,
+    "incoming_2016": 14630,
+    "incoming_2025": 37918,
+    "incoming_growth_pct_2016_2025": 159.18,
+    "resolved_2015": 14452,
+    "resolved_2025": 37973,
+    "resolved_growth_pct_2015_2025": 162.75,
+    "pending_2015": 3950,
+    "pending_2025": 175,
+    "pending_reduction_pct_2015_2025": -95.57,
+    "productivity_rate_2015": 78.53,
+    "productivity_rate_2025": 99.54,
+    "mean_productivity_2020_2025": 99.25,
+    "mean_standard_clearance_2016_2025": 102.36
+  }
+}

@@ -1,0 +1,7 @@
+# Policy Recommendations (`PB-JUD-2026-001`)
+
+1. **Standardize Dual-Metric Reporting (Productivity vs. Clearance Rate)**: Publish both *Rasio Produktivitas Memutus* (`Resolved / Total Caseload`) and international standard Clearance Rate (`Resolved / Incoming`), alongside Minutation Clearance (`Minutated & Dispatched / Incoming`), in a unified table across all court tiers.
+2. **Institute Automated Pre-Publication Arithmetic Audits**: Deploy automated cross-footing checks before publishing annual reports and press releases to eliminate narrative-table mismatches (e.g., 2016 `16,233` vs. `16,223`) and tier-sum discrepancies (e.g., 2025 `3,035,152` vs. `3,025,152`).
+3. **Track Minutation and Dispatch Timeliness Separately from Decision Timeliness**: Because litigants only receive enforceable relief once written judgments are minutated and dispatched, pair `<90`-day decision metrics with end-to-end disposition-to-dispatch age distributions.
+4. **Target Appellate and High-Volume First-Instance Bottlenecks**: Direct workload and case-management support toward appellate courts (89.25% productivity in 2025) and high-caseload first-instance jurisdictions (2.92 million cases across 7,032 judges).
+5. **Adopt Machine-Readable Open Judicial Data Standards**: Release annual *Keadaan Perkara* tables as versioned, UTF-8 CSVs with standardized `court_id` keys, explicit `withdrawn_cases` columns, and zero-imputation missing-value flags to enable independent academic and civil-society verification.

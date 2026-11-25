@@ -1,0 +1,11 @@
+check_id,category,target,status,details
+VAL-001,Schema,judicial_caseload.csv,PASS,All 24 required columns present.
+VAL-002,Schema,data_dictionary.csv,PASS,Data dictionary matches dataset columns 1:1.
+VAL-003,Uniqueness,record_id,PASS,0 duplicate record_ids across 19 rows.
+VAL-004,Domain,report_year,PASS,All report_year values within 2015-2025.
+VAL-005,Referential Integrity,source_id,PASS,All 19 records link to valid source_register.csv entries.
+VAL-006,Domain,verification_status,PASS,All verification_status values conform to controlled vocabulary.
+VAL-007,Numeric Bounds,count_columns,PASS,All non-null case counts are non-negative.
+VAL-008,Arithmetic,opening + incoming == total_caseload,PASS,Exact match across 13 complete caseload rows.
+VAL-009,Arithmetic,caseload - resolved - withdrawn == pending,PASS,Exact match across 13 complete balance rows.
+VAL-010,Longitudinal Continuity,MA-RI opening_pending vs prior pending_cases,PASS_WITH_DOCUMENTED_DISCREPANCY,Documented continuity gap(s): 2021->2022: 175 vs 155 (flagged in dataset).

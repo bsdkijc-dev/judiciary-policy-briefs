@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this policy brief or dataset, please cite it as below."
+type: dataset
+title: "Indonesia Judiciary Open Data Initiative: From Court Statistics to Better Justice Policy (PB-JUD-2026-001)"
+version: 1.0.0
+date-released: 2026-11-25
+authors:
+  - family-names: "Mustafa"
+    given-names: "Cecep"
+repository-code: "https://github.com/bsdkijc-dev/judiciary-policy-briefs"
+url: "https://bsdkijc-dev.github.io/judiciary-policy-briefs/"
+keywords:
+  - judicial-policy
+  - open-justice
+  - judicial-open-data
+  - indonesia
+  - rule-of-law
+  - reproducible-research

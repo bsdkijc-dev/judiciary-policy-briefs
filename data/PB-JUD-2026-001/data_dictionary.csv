@@ -1,0 +1,25 @@
+column_name,data_type,unit,definition,nullable,example_value,source_standard
+record_id,string,identifier,Unique deterministic record identifier (REC-<COURT>-<YEAR>).,false,REC-MA-2025,Project Schema
+report_year,integer,calendar year,Reporting calendar year (2015-2025).,false,2025,Mahkamah Agung Laptah
+court_id,string,code,Standardized institutional/tier code (MA-RI NAT-ALL APP-4J FIRST-4J TAX-CT).,false,MA-RI,Project Schema
+court_name,string,text,Formal Indonesian court or tier name.,false,Mahkamah Agung Republik Indonesia,Mahkamah Agung Laptah
+court_level,string,category,Institutional tier (Supreme Court / Appellate / First Instance / Tax Court / All).,false,Supreme Court,Project Schema
+jurisdiction,string,category,Jurisdictional scope covered by the record.,false,National Apex,Project Schema
+case_category,string,category,Case classification scope (All Cases Combined).,false,All Cases (Combined),Project Schema
+opening_pending,integer,cases,Unresolved cases carried forward from prior reporting year (Sisa Tahun Lalu).,true,230,Mahkamah Agung Laptah
+incoming_cases,integer,cases,New cases registered during the reporting year (Perkara Masuk).,true,37918,Mahkamah Agung Laptah
+total_caseload,integer,cases,Total active caseload (Beban Perkara = opening_pending + incoming_cases).,true,38148,Mahkamah Agung Laptah
+resolved_cases,integer,cases,Cases decided during the reporting year (Perkara Putus).,true,37973,Mahkamah Agung Laptah
+withdrawn_cases,integer,cases,Cases withdrawn before adjudication (Perkara Dicabut).,true,0,Mahkamah Agung Laptah
+pending_cases,integer,cases,Unresolved cases at year-end (Sisa Perkara).,true,175,Mahkamah Agung Laptah
+deciding_productivity_rate,float,percent,Official Rasio Produktivitas Memutus = (resolved + withdrawn) / total_caseload * 100.,true,99.54,Kepaniteraan MA IKU
+minutated_sent_cases,integer,cases,Cases minutated and dispatched to originating courts (Minutasi & Kirim).,true,39931,Kepaniteraan MA IKU
+official_clearance_rate,float,percent,Official MA Clearance Rate = minutated_sent_cases / incoming_cases * 100.,true,96.71,Kepaniteraan MA IKU
+standard_clearance_rate,float,percent,International standard Clearance Rate = resolved_cases / incoming_cases * 100.,true,100.15,CEPEJ / NCSC Standard
+source_id,string,identifier,Foreign key linking to source_register.csv.,false,SRC-MA-2025-LAPTAH,Project Schema
+source_document,string,text,Short title of the primary institutional source document.,false,Laptah MA RI 2025,Project Schema
+source_page,string,text,Page or section reference in the source document.,false,pp. 3 & 35,Project Schema
+source_table,string,text,Table or figure reference in the source document.,false,Keadaan Perkara 2025,Project Schema
+verification_status,string,enum,VERIFIED | PARTIALLY VERIFIED | UNVERIFIED | DISCREPANCY IDENTIFIED | NOT AVAILABLE | NOT COMPARABLE.,false,VERIFIED,Project Verification Framework
+dataset_version,string,semver,Semantic version of the dataset release.,false,1.0.0,Project Schema
+research_notes,string,text,Audit notes on reconciliation discrepancies or scope limits.,true,All figures directly verified.,Project Schema

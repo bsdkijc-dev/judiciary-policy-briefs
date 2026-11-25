@@ -1,0 +1,14 @@
+title: Indonesia Judiciary Open Data Initiative
+description: Judicial open data, policy analysis, and institutional research for a more transparent and accessible justice system.
+theme: minima
+baseurl: "/judiciary-policy-briefs"
+url: "https://bsdkijc-dev.github.io"
+author: Cecep Mustafa
+github_username: bsdkijc-dev
+markdown: kramdown
+header_pages:
+  - publications.md
+  - open-data.md
+  - methodology.md
+  - about.md
+  - contact.md
