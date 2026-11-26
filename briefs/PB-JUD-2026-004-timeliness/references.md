@@ -1,0 +1,12 @@
+# References (`PB-JUD-2026-004`)
+
+1. Kepaniteraan MA-RI (2017). *Newsletter Kepaniteraan MA No. 8 Jan 2017*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/artikel/nl_edisi_8_jan2017.pdf)
+2. Kepaniteraan MA-RI (2020). *LKjIP Kepaniteraan MA 2019*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/kinejra/LKJIP-Kepaniteraan-2019.pdf)
+3. Kepaniteraan MA-RI (2021). *Kinerja Penanganan Perkara Tahun 2020*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/sistem-kamar/kinerja-penanganan-perkara)
+4. Kepaniteraan MA-RI (2022). *Newsletter Kepaniteraan MA No. 16 Jan 2022*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/newsletter/Newsletter-Kepaniteraan-2022-edisi-16.pdf)
+5. Kepaniteraan MA-RI (2022). *Registry News 2140 (2022 Minutation)*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/registry-news/2140-tertinggi-dalam-sejarah-sepanjang-tahun-2022-ma-meminutasi-sebanyak-30-195-perkara)
+6. Kepaniteraan MA-RI (2024). *Featured Articles (2023 Performance)*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/featured-article?start=162)
+7. Kepaniteraan MA-RI (2024). *Registry News 2326 (90.32% Minutation 2023)*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/kinerja-penanganan-perkara/2326-tertinggi-dalam-sejarah-90-32-perkara-diminutasi-kurang-dari-3-bulan)
+8. Kepaniteraan MA-RI (2024). *Laporan Tahunan Kepaniteraan 2024*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/Glosarium/LaptahKepaniteraan2024.pdf)
+9. Kepaniteraan MA-RI (2026). *Laporan Tahunan Kepaniteraan TA 2025*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/Laporan-Tahunan-Kepaniteraan-TA-2025.pdf)
+10. Kepaniteraan MA-RI (2026). *Featured Article (2026 YTD Record)*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/featured-article)

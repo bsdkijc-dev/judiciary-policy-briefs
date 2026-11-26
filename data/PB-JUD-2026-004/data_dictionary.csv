@@ -1,0 +1,14 @@
+column_name,data_type,unit,definition,nullable,example_value
+record_id,string,identifier,Unique deterministic record ID (TM-<STAGE>-<YEAR>).,false,TM-MIN-2023
+report_year,integer,calendar year,Reporting calendar year (2016-2026 YTD).,false,2023
+court_id,string,code,Standardized court code (MA-RI).,false,MA-RI
+stage,string,category,Procedural stage (Deciding Memutus vs Minutation Minutasi).,false,Minutation (Minutasi)
+metric_name,string,text,Standardized timeliness indicator.,false,On-Time Minutation Rate
+on_time_pct,float,percent,Percentage of cases completed within the threshold.,false,90.32
+numerator_cases,integer,cases,Cases completed within threshold where reported.,true,25672
+denominator_cases,integer,cases,Total cases decided or minutated in the period where reported.,true,28422
+threshold_definition,string,text,Official time-limit definition (90 days / 96 days / 1-3 months).,false,1-3 months from decision
+source_id,string,identifier,Foreign key linking to source_register.csv.,false,SRC-TM-2023-MIN
+verification_status,string,enum,VERIFIED | PARTIALLY VERIFIED | DISCREPANCY IDENTIFIED.,false,VERIFIED
+dataset_version,string,semver,Semantic version of dataset release.,false,1.0.0
+research_notes,string,text,Audit and methodology notes.,true,Breakthrough >90% minutation timeliness.

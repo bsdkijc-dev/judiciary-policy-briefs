@@ -1,0 +1,16 @@
+record_id,report_year,court_id,stage,metric_name,on_time_pct,numerator_cases,denominator_cases,threshold_definition,source_id,verification_status,dataset_version,research_notes
+TM-DEC-2016,2016,MA-RI,Deciding (Memutus),On-Time Deciding Rate,80.75,13100,16223,<3 months (90 days SK KMA 214/2014),SRC-TM-2016-NL8,VERIFIED,1.0.0,First year exceeding 80% <3-month deciding benchmark.
+TM-DEC-2017,2017,MA-RI,Deciding (Memutus),On-Time Deciding Rate,91.96,,,<3 months (90 days SK KMA 214/2014),SRC-TM-2022-NL16,VERIFIED,1.0.0,Crossed 90% threshold for the first time.
+TM-DEC-2018,2018,MA-RI,Deciding (Memutus),On-Time Deciding Rate,96.33,,,<3 months (90 days SK KMA 214/2014),SRC-TM-2019-LKJIP,VERIFIED,1.0.0,Sustained >95% deciding speed.
+TM-DEC-2019,2019,MA-RI,Deciding (Memutus),On-Time Deciding Rate,96.58,,,<3 months (90 days SK KMA 214/2014),SRC-TM-2019-LKJIP,VERIFIED,1.0.0,+0.25 percentage points vs 2018.
+TM-DEC-2020,2020,MA-RI,Deciding (Memutus),On-Time Deciding Rate,96.65,19874,20562,<3 months (90 days SK KMA 214/2014),SRC-TM-2020-NEWS,VERIFIED,1.0.0,Maintained during COVID-19 pandemic.
+TM-DEC-2021,2021,MA-RI,Deciding (Memutus),On-Time Deciding Rate,97.77,18805,19233,<3 months (90 days SK KMA 214/2014),SRC-TM-2022-NL16,VERIFIED,1.0.0,Record high at the time.
+TM-DEC-2023,2023,MA-RI,Deciding (Memutus),On-Time Deciding Rate,98.89,27060,27365,<3 months (90 days SK KMA 214/2014),SRC-TM-2023-ART,VERIFIED,1.0.0,Only 305 cases (1.11%) exceeded 3 months.
+TM-DEC-2025,2025,MA-RI,Deciding (Memutus),On-Time Deciding Rate,99.52,,,<3 months (90 days SK KMA 214/2014),SRC-TM-2025-KEP,VERIFIED,1.0.0,8th consecutive year above 90%.
+TM-DEC-2026YTD,2026,MA-RI,Deciding (Memutus),On-Time Deciding Rate,99.78,,,<3 months (YTD Nov 16 2026),SRC-TM-2026-ART,VERIFIED,1.0.0,Achieved amid record 42675 incoming filings.
+TM-MIN-2020,2020,MA-RI,Minutation (Minutasi),On-Time Minutation Rate,37.48,,,<=96 days from decision (SK KMA 214/2014),SRC-TM-2022-NL16,VERIFIED,1.0.0,Severe lag vs 96.65% deciding speed.
+TM-MIN-2021,2021,MA-RI,Minutation (Minutasi),On-Time Minutation Rate,16.73,,,<=96 days from decision (SK KMA 214/2014),SRC-TM-2022-NL16,DISCREPANCY IDENTIFIED,1.0.0,96-day metric=16.73% while clearing 3852 >1yr backlogs; News 2140 reports 1-3m bucket=18.25%.
+TM-MIN-2022,2022,MA-RI,Minutation (Minutasi),On-Time Minutation Rate,64.51,19482,30195,1-3 months (to Dec 27 2022),SRC-TM-2022-NEWS,VERIFIED,1.0.0,Full-year 2022 total minutated later reported as 31455 in News 2326.
+TM-MIN-2023,2023,MA-RI,Minutation (Minutasi),On-Time Minutation Rate,90.32,25672,28422,1-3 months from decision,SRC-TM-2023-MIN,VERIFIED,1.0.0,Breakthrough >90% minutation timeliness; 9.64% >3 months.
+TM-MIN-2024,2024,MA-RI,Minutation (Minutasi),On-Time Minutation Rate,93.93,8736,,<3 months from decision,SRC-TM-2024-KEP,VERIFIED,1.0.0,Continued upward trajectory.
+TM-MIN-2026YTD,2026,MA-RI,Minutation (Minutasi),On-Time Minutation Rate,97.01,,,1-3 months (YTD Nov 2026),SRC-TM-2026-ART,VERIFIED,1.0.0,Highest recorded minutation timeliness in MA-RI history.
