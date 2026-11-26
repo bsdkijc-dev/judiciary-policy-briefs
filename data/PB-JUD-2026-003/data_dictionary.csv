@@ -1,0 +1,14 @@
+column_name,data_type,unit,definition,nullable,example_value
+record_id,string,identifier,Unique deterministic record ID (RES-<TIER>-<METRIC>-<YEAR>).,false,RES-MA-JUDGES-2025
+report_year,integer,calendar year,Reporting calendar year.,false,2025
+court_tier,string,category,Institutional tier covered by the resource record.,false,Supreme Court (MA-RI)
+metric_category,string,category,Resource domain (Staffing or Budget).,false,Staffing
+metric_name,string,text,Standardized indicator name.,false,Career Supreme Court Justices
+metric_value,integer,judges / personnel / IDR,Pure numeric value without currency or thousand separators.,false,48
+unit,string,category,Measurement unit.,false,judges
+caseload_denominator,integer,cases,Active caseload handled in the same tier/year where reported.,true,38148
+files_per_judge_panel3,integer,files/judge/year,Official MA-RI file allocation per judge on a 3-judge panel (3 * caseload / judges).,true,2384
+source_id,string,identifier,Foreign key linking to source_register.csv.,false,SRC-RES-2025-NEWS
+verification_status,string,enum,VERIFIED | PARTIALLY VERIFIED | UNVERIFIED | DISCREPANCY IDENTIFIED.,false,VERIFIED
+dataset_version,string,semver,Semantic version of dataset release.,false,1.0.0
+research_notes,string,text,Contextual and methodological notes.,true,Includes 10 leaders; plus 9 Ad Hoc.
