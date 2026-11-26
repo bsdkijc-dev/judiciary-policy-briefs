@@ -4,20 +4,11 @@ title: Policy Briefs
 permalink: /publications/
 ---
 
-# Policy Briefs
+# Policy Briefs (2026 Series)
 
-## `PB-JUD-2026-001` — From Court Statistics to Better Justice Policy
-- **Subtitle**: Understanding Caseload, Case Clearance, and Pending Cases in Indonesia's Judiciary (2015–2025)
-- **Publication Date**: November 25, 2026 | **Version**: `1.0.0`
-- **Research Theme**: Judicial Workload, Case Clearance, Backlog Control, Open Judicial Data
-- **Abstract**: Audits 18 official publications of the Supreme Court of Indonesia (*Mahkamah Agung RI*) from 2015 to 2025, demonstrating how caseload doubled (+107.30%) while year-end pending cases fell 95.57%, and why standardized dual-metric reporting is essential to distinguish judicial decision speed from minutation dispatch and subordinate-court bottlenecks.
-- **Links**: [Full Publication Page](../briefs/PB-JUD-2026-001.md) | [Download PDF](../../briefs/PB-JUD-2026-001-caseload/policy-brief.pdf) | [Dataset & Evidence](../open-data.md) | [Methodology](../methodology.md)
-
----
-
-## Planned Publication Pipeline (2026–2027)
-- `PB-JUD-2026-002` — *Measuring Access to Justice and Legal Aid* (Planned)
-- `PB-JUD-2026-003` — *Judicial Resources and Institutional Capacity* (Planned)
-- `PB-JUD-2026-004` — *Court Efficiency, Timeliness, and Case Management* (Planned)
-- `PB-JUD-2026-005` — *Judicial Transparency and Public Accountability* (Planned)
-- `PB-JUD-2026-006` — *Digital Justice and Institutional Transformation* (Planned)
+1. **`PB-JUD-2026-001`** — *From Court Statistics to Better Justice Policy: Understanding Caseload, Case Clearance, and Pending Cases* ([Page](../briefs/PB-JUD-2026-001/) | [PDF](../../briefs/PB-JUD-2026-001-caseload/policy-brief.pdf))
+2. **`PB-JUD-2026-002`** — *Measuring Access to Justice and Legal Aid: Posbakum, Prodeo, and BPHN* ([Page](../briefs/PB-JUD-2026-002/) | [PDF](../../briefs/PB-JUD-2026-002-legal-aid/policy-brief.pdf))
+3. **`PB-JUD-2026-003`** — *Judicial Resources and Institutional Capacity: Staffing, Budget, and 3-Judge Panel Density* ([Page](../briefs/PB-JUD-2026-003/) | [PDF](../../briefs/PB-JUD-2026-003-resources/policy-brief.pdf))
+4. **`PB-JUD-2026-004`** — *Court Efficiency, Timeliness, and Case Management: Deciding vs. Minutation Turnaround* ([Page](../briefs/PB-JUD-2026-004/) | [PDF](../../briefs/PB-JUD-2026-004-timeliness/policy-brief.pdf))
+5. **`PB-JUD-2026-005`** — *Judicial Transparency and Public Accountability: Direktori Putusan, Chamber Harmonization, and SMAP* ([Page](../briefs/PB-JUD-2026-005/) | [PDF](../../briefs/PB-JUD-2026-005-transparency/policy-brief.pdf))
+6. **`PB-JUD-2026-006`** — *Digital Justice and Institutional Transformation: e-Court, e-Berpadu, and 99.12% e-Appeals* ([Page](../briefs/PB-JUD-2026-006/) | [PDF](../../briefs/PB-JUD-2026-006-digital-justice/policy-brief.pdf))

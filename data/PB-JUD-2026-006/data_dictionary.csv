@@ -1,0 +1,12 @@
+column_name,data_type,unit,definition,nullable,example_value
+record_id,string,identifier,Unique deterministic record ID (DJ-<YEAR>-<SYSTEM>).,false,DJ-2026-ADOPTION
+year,integer,calendar year,Effective year of regulatory or platform milestone (2018-2026).,false,2026
+legal_instrument,string,text,Governing PERMA SEMA SK KMA or Statute.,false,PERMA No. 6 & 7 Tahun 2022
+platform_or_system,string,text,Judicial digital platform or system name.,false,e-Kasasi / e-PK / RESPEK
+transformation_domain,string,category,Functional transformation domain.,false,Full-Scale Digital Adoption
+key_capability,string,text,Core operational or litigant-facing capability.,false,99.12% electronic Cassation/PK filing rate
+adoption_metric_pct,float,percent,Verified digital adoption percentage where reported.,true,99.12
+source_id,string,identifier,Foreign key linking to source_register.csv.,false,SRC-DJ-2026-NEWS
+verification_status,string,enum,VERIFIED | PARTIALLY VERIFIED | DISCREPANCY IDENTIFIED.,false,VERIFIED
+dataset_version,string,semver,Semantic version of dataset release.,false,1.0.0
+research_notes,string,text,Contextual and infrastructure notes.,true,Only 0.88% manual filings.

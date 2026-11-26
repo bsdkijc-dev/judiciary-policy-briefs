@@ -1,0 +1,10 @@
+# References (`PB-JUD-2026-006`)
+
+1. Mahkamah Agung RI (2020). *Laporan Tahunan MA RI 2019*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/laporan_tahunan/LAPTAH%20030220.pdf)
+2. Mahkamah Agung RI (2021). *Laporan Tahunan MA RI 2021*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/laporan_tahunan/FA-LAPTAH-2021-LOW.pdf)
+3. Mahkamah Agung RI (2025). *Ringkasan Eksekutif Laptah MA RI 2024*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/laporan_tahunan/laptah2024/ringkasan_eksekutif_laptah_2024.pdf)
+4. Mahkamah Agung RI (2026). *Ringkasan Eksekutif Laptah MA RI 2025*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/laporan_tahunan/FA_%20EKSUM_%202025.pdf)
+5. Mahkamah Agung RI (2026). *Laporan Tahunan MA RI 2025*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/laporan_tahunan/FA_LAPTAH_2025.pdf)
+6. Mahkamah Agung RI (2026). *e-Court Portal*. [URL](https://ecourt.mahkamahagung.go.id/)
+7. Mahkamah Agung RI (2026). *e-Berpadu Portal*. [URL](https://eberpadu.mahkamahagung.go.id/)
+8. Kepaniteraan MA-RI (2026). *Registry News 3088 (99.12% Digital Adoption)*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/registry-news/3088-ma-catat-rekor-perkara-masuk-42-ribu-perkara-ketepatan-memutus-capai-99-78-persen)
