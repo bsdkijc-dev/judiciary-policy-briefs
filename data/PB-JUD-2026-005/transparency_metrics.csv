@@ -1,0 +1,10 @@
+record_id,report_year,pillar,metric_name,metric_value,unit,satker_coverage,source_id,verification_status,dataset_version,research_notes
+TR-DIR-CUM-2016,2016,Decision Publication,Cumulative Published Decisions,2061320,decisions,,SRC-TR-2016-NL8,DISCREPANCY IDENTIFIED,1.0.0,Reported total=2061320 while 1975804 first/appellate + 86462 MA-RI = 2062266.
+TR-DIR-CUM-2021,2021,Decision Publication,Cumulative Published Decisions,6626144,decisions,,SRC-TR-2022-NL16,VERIFIED,1.0.0,+980654 uploaded in 2021 (61.88% Religious 36.23% General 1.36% MA 0.31% Admin 0.22% Military).
+TR-DIR-ANN-2021,2021,Decision Publication,Annual Uploaded Decisions,980654,decisions,,SRC-TR-2022-NL16,VERIFIED,1.0.0,606837 Religious + 355333 General + 13328 MA + 3032 Admin + 2124 Military.
+TR-DIR-CUM-2024,2024,Decision Publication,Cumulative Published Decisions,9382440,decisions,,SRC-TR-2024-KEP,VERIFIED,1.0.0,+951970 uploaded in 2024 (avg 79313/month); +354.9% growth vs 2016.
+TR-DIR-ANN-2024,2024,Decision Publication,Annual Uploaded Decisions,951970,decisions,,SRC-TR-2024-KEP,VERIFIED,1.0.0,Published on Direktori Putusan throughout 2024.
+TR-KAMAR-2025,2025,Jurisprudential Consistency,Cumulative Chamber Formulations (2012-2025),576,formulations,,SRC-TR-2026-ART66,VERIFIED,1.0.0,14 Pleno Kamar cycles culminating in SEMA No. 1 Tahun 2025 (24 new/revised).
+TR-CIT-PLENO-2026,2026,Jurisprudential Consistency,Decisions Citing Rapat Pleno Kamar SEMA,45720,decisions,907,SRC-TR-2026-FEAT,VERIFIED,1.0.0,41644 First Instance + 3264 Appellate + 621 Cassation + 144 PK.
+TR-CIT-RUMUSAN-2026,2026,Jurisprudential Consistency,Decisions Citing Rumusan Kamar,13410,decisions,731,SRC-TR-2026-FEAT,VERIFIED,1.0.0,12644 First Instance + 644 Appellate + 62 Cassation + 22 PK.
+TR-DIGI-2026,2026,Digital Accountability,Electronic Cassation & PK Adoption Rate,99.12,percent,,SRC-TR-2026-NEWS,VERIFIED,1.0.0,Only 0.88% manual filings due to regional technical constraints.

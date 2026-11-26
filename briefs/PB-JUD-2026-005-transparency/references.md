@@ -1,0 +1,10 @@
+# References (`PB-JUD-2026-005`)
+
+1. Kepaniteraan MA-RI (2017). *Newsletter Kepaniteraan MA No. 8 Jan 2017*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/artikel/nl_edisi_8_jan2017.pdf)
+2. Kepaniteraan MA-RI (2022). *Newsletter Kepaniteraan MA No. 16 Jan 2022*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/newsletter/Newsletter-Kepaniteraan-2022-edisi-16.pdf)
+3. Kepaniteraan MA-RI (2024). *Laporan Tahunan Kepaniteraan 2024*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/Glosarium/LaptahKepaniteraan2024.pdf)
+4. Mahkamah Agung RI (2026). *Ringkasan Eksekutif Laptah MA RI 2025*. [PDF](https://kepaniteraan.mahkamahagung.go.id/images/laporan_tahunan/FA_%20EKSUM_%202025.pdf)
+5. Kepaniteraan MA-RI (2025). *Kepaniteraan MA Deklarasikan Pembangunan SMAP*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/registry-news/2552-kepaniteraan-ma-deklarasikan-pembangunan-smap)
+6. Kepaniteraan MA-RI (2025). *Pleno Kamar 2025 / 576 Rumusan Hukum*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/featured-article?start=66)
+7. Kepaniteraan MA-RI (2026). *Registry News 3088 (99.12% Digital Adoption & RESPEK)*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/registry-news/3088-ma-catat-rekor-perkara-masuk-42-ribu-perkara-ketepatan-memutus-capai-99-78-persen)
+8. Kepaniteraan MA-RI (2026). *Putusan Merujuk Rumusan Kamar Capai 59.130*. [Release](https://kepaniteraan.mahkamahagung.go.id/id/featured-article)

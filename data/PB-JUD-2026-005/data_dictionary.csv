@@ -1,0 +1,12 @@
+column_name,data_type,unit,definition,nullable,example_value
+record_id,string,identifier,Unique deterministic record ID (TR-<PILLAR>-<YEAR>).,false,TR-DIR-CUM-2024
+report_year,integer,calendar year,Reporting calendar year (2016-2026).,false,2024
+pillar,string,category,Transparency pillar (Decision Publication / Jurisprudential Consistency / Digital Accountability).,false,Decision Publication
+metric_name,string,text,Standardized indicator name.,false,Cumulative Published Decisions
+metric_value,float,decisions / formulations / percent,Pure numeric value.,false,9382440
+unit,string,category,Measurement unit.,false,decisions
+satker_coverage,integer,courts/satkers,Number of judicial working units covered where reported.,true,907
+source_id,string,identifier,Foreign key linking to source_register.csv.,false,SRC-TR-2024-KEP
+verification_status,string,enum,VERIFIED | PARTIALLY VERIFIED | DISCREPANCY IDENTIFIED.,false,VERIFIED
+dataset_version,string,semver,Semantic version of dataset release.,false,1.0.0
+research_notes,string,text,Contextual and methodological notes.,true,Published on Direktori Putusan.
