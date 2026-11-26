@@ -1,0 +1,15 @@
+column_name,data_type,unit,definition,nullable,example_value
+record_id,string,identifier,Unique deterministic record ID (LA-<INST>-<PILLAR>-<YEAR>).,false,LA-MA-PRODEO-2025
+report_period,string,calendar period,Reporting year or multi-year accreditation cycle.,false,2025
+institution,string,text,Responsible judicial or executive institution.,false,Mahkamah Agung RI (All Tiers)
+program_pillar,string,category,Legal aid delivery mechanism (OBH / SIDBANKUM / Posbakum / Prodeo).,false,Prodeo (Court Fee Waivers)
+metric_name,string,text,Standardized indicator name.,false,Fee-Waiver Cases Reached
+metric_value,float,count or IDR,Observed numerator or count (pure numeric without separators).,false,22748
+denominator_value,float,count or IDR,Observed denominator where applicable (applications or budget ceiling).,true,16570
+fulfillment_rate_pct,float,percent,Calculated ratio metric_value / denominator_value * 100.,true,85.12
+unit,string,category,Measurement unit (cases / individuals / organizations / IDR / index_score).,false,cases
+legal_basis,string,text,Governing statute or Supreme Court regulation.,false,PERMA No. 1 Tahun 2014
+source_id,string,identifier,Foreign key linking to source_register.csv.,false,SRC-LA-2025-MA-LAPTAH
+verification_status,string,enum,VERIFIED | PARTIALLY VERIFIED | UNVERIFIED | DISCREPANCY IDENTIFIED.,false,VERIFIED
+dataset_version,string,semver,Semantic version of dataset release.,false,1.0.0
+research_notes,string,text,Contextual and methodological notes.,true,Cases served under Pembebasan Biaya Perkara.
