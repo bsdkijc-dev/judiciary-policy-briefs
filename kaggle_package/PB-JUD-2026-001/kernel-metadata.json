@@ -1,0 +1,15 @@
+{
+  "id": "judicialcollege/judicial-caseload-indonesia-exploratory-analysis",
+  "title": "Judicial Caseload in Indonesia: Exploratory Analysis",
+  "code_file": "judicial-caseload-indonesia-exploratory-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "judicialcollege/indonesia-judiciary-caseload-2015-2025"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
